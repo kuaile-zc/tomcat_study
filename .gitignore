@@ -1,0 +1,20 @@
+# out
+/null
+/nullwebapps
+/bin/
+/build
+/fileBased*
+/deployment
+out/
+.*
+/target/
+
+# idea
+functional-tests/build/
+!.gitignore
+*.iml
+*.ipr
+*.iws
+
+# log
+/logs/
